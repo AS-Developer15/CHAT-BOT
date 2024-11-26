@@ -59,8 +59,8 @@ Our educational philosophy is centered on praise, encouragement, enthusiasm, and
 We are trying to provide our students with an atmosphere of multifaceted development, where children are encouraged to channelize their potential in the pursuit of excellence. This can only be possible in a holistic and student-centric environment. The talents, skills, and abilities of each student need to be identified, nurtured, and encouraged so that he/she is able to reach greater heights. We are providing our Students a platform to think, express, and exhibit their skills. It is necessary to empower them to negotiate several issues that confront them, with the teacher being a facilitator.
 '''
 # Streamlit Code
-st.title("MACS Clone")
-st.write("MACS Clone stimulates real life conversation and answers to your prompts in a real life conversative manner. Our bot uses a combination of artificial intelligence (AI) and natural language processing (NLP) techniques to understand and respond to user queries. ")
+st.title("MACS BOT")
+st.write("MACS BOT stimulates real life conversation and answers to your prompts in a real life conversative manner. Our bot uses a combination of artificial intelligence (AI) and natural language processing (NLP) techniques to understand and respond to user queries. ")
 st.write("All rights reserved to @AS.Developer")
 st.divider()
 # Result Function
